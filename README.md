@@ -1,6 +1,6 @@
 <!-- Language Switch -->
 <h3 align="right">
-🌐 <a href="#english-version">English</a> | <a href="#deutsche-version">Deutsch (B1)</a>
+🌐 <a href="#english-version">English</a> | <a href="#deutsche-version">Deutsch</a>
 </h3>
 
 ---
